@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "InvariantSet"
+abstract: "Robust invariant and reachable sets for discrete-time linear systems with bounded disturbances — polytope support functions, Minkowski sum, Pontryagin difference and intersection, the recursive maximal robust invariant set with a declared convergence criterion, iteration cap and an explicit non-convergence report, hand-computed known-answer tests for 1-D and 2-D systems, and measured numerical behaviour including redundant-constraint tolerance, vertex-count growth and a documented case where a tolerance change alters the answer."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/invariantset"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - gnc
